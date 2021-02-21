@@ -1298,9 +1298,14 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 		.logo img {
-			width:inherit;
+			
 			border-radius: 100%;
 			height: inherit;
+			border: 1px solid white;
+			display: block;
+			  margin-left: auto;
+			  margin-right: auto;
+			  width: 50%;
 		}
 
 			#header .logo .icon:before {
