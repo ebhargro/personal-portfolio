@@ -1664,3 +1664,16 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.parisPic {
+	width: inherit;
+	height: inherit;
+}
+
+
+#aboutMoi:hover {
+	color: #c5d3ee;
+}
+
+
+
