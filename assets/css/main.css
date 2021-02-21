@@ -1666,8 +1666,10 @@ input, select, textarea {
 		}
 
 .parisPic {
-	width: inherit;
-	height: inherit;
+	display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50%;
 }
 
 
