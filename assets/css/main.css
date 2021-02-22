@@ -1296,6 +1296,10 @@ input, select, textarea {
 			line-height: 6rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background-image: url("images/paris.jpg");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
 		}
 		.logo img {
 			
@@ -1308,13 +1312,7 @@ input, select, textarea {
 			  width: 100%;
 		}
 
-		#header span {
-			background-image: url("images/paris.jpg");
-			background-position: center;
-			background-repeat: no-repeat;
-			background-size: cover;
-}
-
+	
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
