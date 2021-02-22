@@ -1308,6 +1308,13 @@ input, select, textarea {
 			  width: 100%;
 		}
 
+		#header span {
+			background-image: url("images/paris.jpg");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}
+
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
